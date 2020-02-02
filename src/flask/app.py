@@ -343,7 +343,7 @@ class Flask(_PackageBoundObject):
             "TRAP_HTTP_EXCEPTIONS": False,
             "EXPLAIN_TEMPLATE_LOADING": False,
             "PREFERRED_URL_SCHEME": "http",
-            "JSON_AS_ASCII": True,
+            "JSON_AS_ASCII": False,
             "JSON_SORT_KEYS": True,
             "JSONIFY_PRETTYPRINT_REGULAR": False,
             "JSONIFY_MIMETYPE": "application/json",
